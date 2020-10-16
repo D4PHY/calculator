@@ -1,0 +1,35 @@
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.col {
+  padding: 0.5rem 1rem;
+  border: 2px solid black;
+  font-size: 3.2rem;
+}
+
+.display {
+  background-color: grey;
+  padding: 1.5rem 1rem;
+  min-height: 8rem;
+}
+
+.operators {
+  background-color: orange;
+  border: 2px solid black;
+  color: aliceblue;
+}
+.numbers {
+  background-color: wheat;
+  border: 2px solid black;
+}
+
+.result {
+  background-color: forestgreen;
+  border: 2px solid black;
+}
+
+.delete-values {
+  background-color: red;
+}
